@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ios-timeout_Example' do
+  pod 'ios-timeout', :path => '../'
+
+  target 'ios-timeout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
