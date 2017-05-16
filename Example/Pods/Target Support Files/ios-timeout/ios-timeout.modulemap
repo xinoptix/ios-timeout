@@ -1,0 +1,6 @@
+framework module ios_timeout {
+  umbrella header "ios-timeout-umbrella.h"
+
+  export *
+  module * { export * }
+}

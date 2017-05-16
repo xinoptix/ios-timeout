@@ -1,0 +1,16 @@
+PODS:
+  - ios-timeout (0.1.0)
+
+DEPENDENCIES:
+  - ios-timeout (from `../`)
+
+EXTERNAL SOURCES:
+  ios-timeout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ios-timeout: 1029218f05e3407296bc9f383785d4a55b1b3804
+
+PODFILE CHECKSUM: 75961f4062787335a6aca24bc932a536d73b11c7
+
+COCOAPODS: 1.2.1
